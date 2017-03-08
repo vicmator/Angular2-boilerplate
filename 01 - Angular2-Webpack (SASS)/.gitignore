@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+dist/
+typings/
+*.orig
+.idea/
+*/src/**/*.js
+*/src/**/*.js.map
+/src/**/*.css.d.ts
+/src/**/*.scss.d.ts
+npm-debug.log
