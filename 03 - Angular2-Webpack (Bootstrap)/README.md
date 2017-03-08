@@ -1,11 +1,12 @@
-# Angular2-Webpack
-It's a single page using Angular2 and Typescript with Webpack
+
+# 03 - Angular2-Webpack (Bootstrap)
+It's a single page using Angular2, Typescript and support to Bootstrap with Webpack
 
 # How to get started
 
 Clone or download this project.
 
-From the root folder of the project execute (command prompt):
+From the root of this folder execute (command prompt):
 
 ```
 npm install
@@ -18,8 +19,3 @@ npm start
 ```
 
 Open a browser and navigate to http://localhost:8080
-
-# Project info
-
-You can visit the wiki for more information 
-[wiki](https://github.com/vicmator/Angular2-Webpack/wiki)
